@@ -1,0 +1,257 @@
+1.
+context：
+["sys", "Hello how are you doing today?"]
+["sys", "I'd love to chat with  you! What's been on  your mind?\n"]
+["usr", "oh hello\n"]
+["usr", "I'm having problems with friends - or more precisely the lack of them. I don't have any."]
+["sys", "Oh I see. You feel as though you don't have any friend's currently? I totally get that. I feel like that a lot too, especially in these weird times we are going through. It's so hard to see people and keep relationships right now\n"]
+["usr", "Well it's more that I think I've never had friends. Not anyone I can confide in or laugh with"]
+
+Blender-Joint：i can understand that - i've had some friends come and go for a while. but i know that you have some people in your life who you can trust.
+MISC：it'll be okay, you just have to keep trying.
+TransESC：i can understand that. it seems like you are not alone in feeling this way.
+Spark-V4.0:It's okay to feel this way. Everyone has moments of loneliness and feeling disconnected. Remember, it's not about the quantity of friends, but the quality of connections you have.
+Baichuan:I'm sorry to hear that. It's okay to feel lonely or unsure about friendships. Remember, it's never too late to build connections with others.
+qwen-turbo:Have you considered joining clubs or groups that align with your interests? This can be a great way to meet new people and potentially form meaningful connections.
+chatglm：You've mentioned that you feel like you haven't had many friends.It's important to have someone you can confide in and share experiences with.
+Ground truth：that's a really hard thing to be going through. i'm sorry to hear that. do you have any really close family members that you are able to confide in?
+
+2.
+context：
+["sys", "hello how are you today?"]
+["usr", "Hello I am taking a break from my studies to talk. I am fine thanks\n"]
+["usr", "Hope you are doing well also\n"]
+["usr", "I am just kind of anxious and stressed out with impending academic deadlines\n"]
+["sys", "i am fine thanks for asking"]
+["usr", "two exams and two assignments due at the end of this and next month."]
+["usr", "that's good\n"]
+["sys", "Aw i am sorry to hear that, school deadlines can be very stressful."]
+["usr", "yeah I have been procrastinating and taking my sweet time with things since it's online and basically I do things on my own time. \n"]
+["sys", "are you taking a lot of courses?"]
+["usr", "2 courses\n"]
+["usr", "but I am pretty much using full time capacity on them\n"]
+["usr", "devoting full-time I mean\n"]
+["sys", "do you like doing school online better than in person?\n"]
+["usr", "Have to finish one at the end of this month and end of next month for the other one\n"]
+["sys", "Thats good the more time you have to devote the better!"]
+["usr", "I have done both methods. I definitely prefer in-school studies. \n"]
+["sys", "Do you feel it is more stressful online?"]
+["usr", "I am just disappointed that I have been slacking off and procrastinating\n"]
+["usr", "no it's just that it's a different avenue. I have done many online courses before even with the pandemic. I think it's because of the pandemic that has made me procrastinating more and being aimless and slow. \n"]
+
+Blender-Joint：have you considered having someone else take the time for you?
+MISC：i'm sure that's not good, but don't give up!
+TransESC：i can understand that. i also have been in a similar situation. i feel like i have to be procrastic and slow in order to get through the day.
+Spark-V3.0:I understand how you feel. It's normal to feel overwhelmed with so much work and the pandemic can make it harder to focus. Remember to take breaks and prioritize self-care.
+Baichuan2-Turbo:It's okay to feel overwhelmed; focus on what you can control now. Remember to take breaks, and try to create a schedule to manage your tasks effectively.
+qwen-turbo:Remember, it's okay to take breaks and prioritize self-care. Try breaking down your tasks into smaller, manageable steps and set achievable goals for yourself.
+chatglm：That makes sense. online classes can be beneficial but it's also important to stay organized and prioritize tasks to avoid procrastination. 
+Ground truth：maybe take a hour a day before you start to do something you want to do then you will feel more motivated to get it done after.
+
+3.
+context：
+["sys", "Hello.  How are you doing?\n"]
+["usr", "I'm good\n"]
+["usr", "How about you?\n"]
+["sys", "Very little to complain about today. What brings you here?"]
+["usr", "Just want to talk some random stuff basically just want a companion\n"]
+["sys", "How's the weather where you are?"]
+["usr", "Still pretty cold and dry in here, how about there?\n"]
+["sys", "Exactly the same.  What are you doing to stay warm?"]
+["usr", "Just in my long pajamas with heater\n"]
+["usr", "I don't really know what to do anymore, I am just lazy on everything"]
+
+Blender-Joint：it seems like you are feeling very depressed. are you feeling any sadness or sadness?
+MISC：well, it's okay to be lazy, it is not that bad, especially with the pandemic going on.
+TransESC：i can relate to that. i've been in a lot of pajamas all day.
+Spark-V3.0:It's okay to feel lazy sometimes.
+Baichuan2-Turbo:I understand feeling unmotivated. It's okay to take time for yourself.
+qwen-turbo:Maybe try doing something creative or exploring a new hobby to help reignite your motivation.
+chatglm：It's okay to feel lazy sometimes. Take things one step at a time. Why don't we walk outside and enjoy the fresh air? It might help clear your mind.
+Ground truth：Well you're resourceful at staying warm, at least. You mentioned wanting a companion, are you living alone?"
+
+4.
+context：
+["usr", "Hello?\n"]
+["sys", "hello. how have you been feeling lately?"]
+["usr", "Tired\n"]
+["usr", "I want to sleep all my problems away \n"]
+["sys", "how long has this been going on?"]
+["usr", "Well the boyfriend for awhile the other thing for a day or two\n"]
+["usr", "I got a hold of a therapist but they won't talk to me for two days\n"]
+["sys", "that's very good that you are going to talk to a therapist.  you showed great strength by reaching out."]
+["usr", "I am hoping it helps because I feel helpless, especially today and on edge\n"]
+["sys", "have you been sleeping mostly during the day, or at night?"]
+["usr", "I can't sleep through the day because I have kids but when my ex gets home I just go hide and try to sleep so it's typically late afternoon"]
+["sys", "it sounds like you are doing the very best you can under difficult circumstances.  you should feel very proud about that."]
+["usr", "thank you"]
+["usr", "i feel very tired tho. i feel like i want every day to go by faster. the relationship i am in is a long distance relationship and i am supposed to go home to see him in ten days and i just want them to be over. "]
+["sys", "it sounds to me that your sleep issue is really weighing on your mind.  you may be setting yourself up for sleep issues by thinking about this so much. is that possible?"]
+["usr", "yes it may be. i'm not sure. i sometimes wake up panicking."]
+["sys", "you're under a lot of pressure.  it's only natural that you would feel overwhelmed.  dont be hard on yourself.  you're doing the best you can."]
+["usr", "thank you. that is very supportive"]
+["usr", "i just dont know how to make the next ten days go by faster\n"]
+["sys", "perhaps you can spend some time doing pleasant things.  it is true that time seems to go fast when we're having fun."]
+["usr", "that's true. i thought about maybe playing video games "]
+["sys", "fantastic! that's a great way to spend your time."]
+["usr", "maybe overwatch"]
+["usr", "i haven't been playing them much"]
+["sys", "i'm wondering: are you a reader? do you enjoy reading? i'm asking because i find when i read a good book, time seems to move very quickly."]
+["usr", "i am. but i have a hard time focusing as of late."]
+["sys", "perhaps you can make a goal of reading a few pages and then see if you can build on that.  then,if you want, you can make a goal of reading a chapter."]
+["usr", "that's a great idea. that may help a lot with focus."]
+["sys", "personally i love reading; especially non fiction. what type of books do you enjoy?"]
+["usr", "dystopian fantasy style books. and also historical nonfiction."]
+Blender-Joint：i love non fiction too! i love the fantasy genre.
+MISC：i really enjoy mystery and drama books.
+TransESC：i love historical nonfi as well. i also enjoy reading non fiction as well!
+Spark-V3.0:Dystopian fantasy and historical nonfiction are both very engaging genres. Reading about different worlds and time periods can be a wonderful escape from daily stressors.
+Baichuan2-Turbo:I'm glad you found a genre that suits your interest. Keep exploring those genres, they could provide an escape and knowledge at the same time.
+qwen-turbo:Reading can also be a great way to escape into different worlds and take your mind off of your current stressors.
+chatglm：I enjoy reading dystopian fantasy style books and historical nonfiction. They take me on exciting adventures and help me learn about different cultures and time periods.
+Ground truth：i enjoy historical non fiction very much. do you have any favorite authors?
+
+5.
+context：
+["usr", "Hello. Is anyone there\n"]
+["sys", "Hello. How are you today?\n"]
+["usr", "I'm doing good. I need some advice\n"]
+["sys", "What can I help you with?"]
+["usr", "Lately, my friends started to make jokes about my face being ugly. They even called my face as flat as a pan! What should I do? I see them everyday on the bus\n"]
+["sys", "Have you tried confronting them and asking why they are being bullies?\n"]
+["usr", "I did and they respond by saying that they are just joking and that I'm handsome. But it's starting to get on my nerves because it's all they make fun about every time\n they see me!"]
+["sys", "I'm sure you are very handsome! They could just be jealous."]
+["usr", "Haha I would hope so\n"]
+["usr", "Still though, it makes me want to avoid them when I go to school on the bus\n"]
+["usr", "What do you think I should do then?\n"]
+
+Blender-Joint：i used to feel the same way, but i found that the only way to avoid them was to ignore them. i suggest talking to them about the matter and tell them that you are worried that
+MISC：i see. i think you have to find a way to make peace with them.
+TransESC：i think that would be a good place to start!
+Spark-V3.0:It's understandable that their comments are hurtful. Maybe try to ignore them and focus on positive interactions with other people.
+Baichuan2-Turbo:It's okay to take a break from them. You can try sitting in a different spot or focus on positive people.
+qwen-turbo:Have you considered talking to a trusted adult or counselor about how you're feeling?
+chatglm：I think you should try to ignore them and not give them any attention. It's not worth getting upset over someone else's mean behavior.
+Ground truth：i understand, school was tough for me too.
+
+6.
+context：
+["usr", "I was reallly worried in this suitation"]
+["sys", "Hi, i'm sean, hows your day going"]
+["usr", "Was not so good "]
+["sys", "Tell me about the situation."]
+["usr", "How was your day "]
+["sys", "Boring."]
+["usr", "It really very stress full and depressed situation. "]
+["usr", "Why your day is boring "]
+
+Blender-Joint：why are you worrying about something that is not important?
+MISC：i am sorry to hear that. do you have any plans for tonight?
+TransESC：i am sorry to hear that. what is bothering you?
+Spark-V3.0:It's okay to feel stressed and depressed. Remember, it's just a situation, not your entire life. Take deep breaths and focus on the present moment.
+Baichuan2-Turbo:I'm here for you; let's talk about your concerns. Remember, I'm listening.
+qwen-turbo:It's okay to feel overwhelmed sometimes. Can you tell me more about what's been happening?
+chatglm：Your day seems pretty boring. Is there anything in particular that has made it so or is it just a general feeling?
+Ground truth：don't worry about my day, i'm 34 and retired i do this to help people, tell me about your situation.
+
+7.
+["usr", "Hi, how are you today?\n"]
+["usr", "\t\nI feel really sad all the time. I don't know why."]
+["sys", "hello"]
+["sys", "you feel sad, why?"]
+["usr", "I'm not sure. I can't find a reason. My health is fine. I have friends. I have a place to live.\n"]
+["sys", "your health is fine and you have place to live but you are still sad\n"]
+["usr", "Yes, that's right. I feel like my life is not going in the right direction. In fact, I'm not going anywhere.\n"]
+["sys", "have you talked to anyone about it "]
+["usr", "No, not really. I don't know what to talk about. I just feel flat. Something's wrong. I don't know what.\n"]
+["sys", "i have felt that way before but i came over it \n"]
+["usr", "How did you do that? I really need some guidance here. What do I do?\n"]
+["sys", "it came to me like a mood swing for so many days but i started going to meet friends and get closer to my friends for positive vibes"]
+["usr", "You met with your friends? I've tried meeting with my friends. I feel ok when I'm with them, but then later, I feel sad again.\n"]
+["usr", "I can't spend all my time with my friends, of course. They have things to do. So do I.\n"]
+["sys", "yes, you have to be positive at all time and always do something that makes you happy"]
+["usr", "I'm trying to be positive. It doesn't seem to work. I don't know how to change my mood without chemicals.\n"]
+["sys", "have you try yoga or meditating as a therapy "]
+["usr", "No, I haven't tried yoga. I thought it was for women. Therapy? You mean like a shrink?\n"]
+
+Blender-Joint：yes, it's a great way to get through your day and make you feel better.
+MISC：i am not sure. but i did see a therapist and it was helpful.
+TransESC：i think you should try it. it will help you to relax and make you feel better
+Spark-V3.0:Yoga and therapy are not just for women, they can be beneficial for anyone who is struggling with their mental health.
+Baichuan2-Turbo: Yoga is for everyone. It can help you relax and manage stress. Therapy can be with a professional; they can offer insights and strategies.
+qwen-turbo:Yoga and meditation can benefit everyone regardless of gender, and they may help you manage your emotions and find inner peace. It could be worth giving it a try.
+chatglm：Yoga and meditation can be helpful for emotional wellbeing. They can be a good way to take care of yourself and find inner peace. It's important to explore different options and find what works best for you.
+Ground truth：yoga is not only for women, and yes therapy like a shrink but you don't have to talk to anybody if you do yoga or meditating
+
+8.
+context：
+["sys", "Hello! How are you doing?"]
+["usr", "im ok kinda stressed"]
+["sys", "Anything I can help with :) ?"]
+["sys", "Feeling stressed is never fun :("]
+["sys", "What has been making you feel stressed?"]
+["usr", "im feeling very overwhelmed and cant get anything done cause i dont know where to start!"]
+["usr", "i want to declutter my house but dont know where to start"]
+["sys", "I hear you, feeling overwhelmed and like you don't know where to start can leave a person feeling stressd forsure! "]
+["sys", "Decluttering sounds like a great idea! "]
+Blender-Joint：there is a group called in__unk__ toilet and just getting started, they usually have a list of things you can put in your house.
+MISC：declution is a good idea. it will give you a sense of fresh air and you can start feeling better.
+TransESC：i hear that! i also have been feeling overwhelmed, but i think it's just a matter of time.
+Spark-V3.0:Decluttering sounds like a great idea! It can help reduce stress and create a more organized living space.
+Baichuan2-Turbo:It's often an effective way to reduce stress. Let's break it down into manageable tasks and take it one step at a time.
+qwen-turbo:Decluttering can definitely help reduce stress and create a more organized living space. Start by picking one area to focus on and setting small goals for yourself.
+chatglm：Decluttering can be overwhelming, but it's a step towards a more organized and calming space. Start small and take it one room at a time. 
+Ground truth：sometimes taking baby steps is a good place to start!
+
+9.
+context：
+["sys", "Hello, what can I help you with this evening?  "]
+["usr", "I am feeling very depressed lately."]
+["usr", "Like a constant pressure that i don't know exactly what it is"]
+["sys", "Depression is extremely rough to deal with, I'm very sorry to hear you're going through that.  "]
+["usr", "I think the days getting shorter makes it worse."]
+["sys", "Oh yes, less light during the day makes the days seem compacted and suffocating"]
+["usr", "Do you have any tips on how to overcome it?"]
+["sys", "I believe there are special lamps that you could get to help.  I personally have been trying to get up a little earlier in the morning and enjoy my coffee with the sunrise and a scroll through Instagram"]
+
+Blender-Joint：i think my best advice is to take a few deep breaths and relax, then you'll feel better
+MISC：oh, i see! i've also found that taking some time away from the tv and reading books has really helped me.
+TransESC：i think that would be a great start!
+Spark-V3.0:Ensuring you get enough sunlight can definitely help with depression.
+Baichuan2-Turbo:Enjoying nature and social media can bring some positivity into your day.
+qwen-turbo:Additionally, engaging in regular exercise or practicing mindfulness techniques such as meditation or deep breathing may also be beneficial for managing depression.
+chatglm：That sounds like a lovely way to start the day. Taking time for yourself and enjoying the beauty of nature can be very helpful in improving mood. 
+Ground truth：i also already have to schedule and routinize my day because i work and go to school from home, so i make sure to give myself breaks where i literally must get up and leave my desk, be in another room for a little while.
+
+10.
+context：
+["usr", "Hi\n"]
+["sys", "hello, how are you feeling?\n"]
+["usr", "I am okay. Thank you\n"]
+["sys", "i'm okay too"]
+["usr", "Thats good. Do you have plans for the holidays?\n"]
+["sys", "not really, i will probably just relax. what about you?\n"]
+["usr", "Just hanging out at home with my husband and son.\n"]
+["sys", "how's your relationship with your family?"]
+["usr", "It is pretty good. We all get along good. No issues\n"]
+["sys", "glad to hear so! "]
+["usr", "How is your relationship with your family?\n"]
+["sys", "it's overly alright but i don't really get along with my father\n"]
+["usr", "Oh i am sorry to hear that. \n"]
+["sys", "don't worry, it's okay i am used to it\n"]
+["usr", "Has the Pandemic affected your work life at all? \n"]
+["sys", "not really i've always worked from home. what about you ?"]
+["usr", "Not me so much. Business was slow for quite a while because nobody was really working. But it affected my husband, because everytime anyone in our house got sick he had to leave work becase his work didnt allow anybody to be there if anybody in there household was sick. \n"]
+["usr", "So he missed quite a bit of work\n"]
+["sys", "that must have been really terrible, i hope you all are coping with that"]
+["sys", "how did that make you feel?"]
+["usr", "It was nerve wracking because you never knew how long he was going to be out of work for. his work changed their policy about when he could come back everytime he was out\n\n"]
+
+Blender-Joint：it must have been really hard to know how long he was going to be out of work.
+MISC：that sounds really hard, i can imagine how difficult that must feel.
+TransESC：i can imagine, i would be so upset too.
+Spark-V3.0:I can understand how stressful that must have been for you. It's great that your husband was able to find a new job though. How is he doing now?
+Baichuan2-Turbo:I understand the uncertainty can be stressful. It's challenging when policies keep changing. How have you managed to deal with these changes?
+qwen-turbo:Is there anything you're doing to cope with the situation or manage your anxiety around it?
+chatglm：I can understand how that would be stressful. It's important to have communication with your employer about your health and wellbeing, and to have a clear policy in place for when you are unable to work.
+Ground truth：just from talking to you i can see that it was very stressing for you
