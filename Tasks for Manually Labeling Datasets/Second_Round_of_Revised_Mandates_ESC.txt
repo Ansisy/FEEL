@@ -1,0 +1,139 @@
+Annotator Differences:
+
+Worker1:
+Informativeness:
+Dialogue 2: Other Scores ： 3.0, 3.0
+Dialogue 7: Other Scores ： 3.0, 3.0
+Dialogue 9: Other Scores ： 2.0, 3.0
+Dialogue 10: Other Scores ： 3.0, 3.0
+Dialogue 12: Other Scores ： 3.0, 2.5
+Dialogue 36: Other Scores ： 1.5, 1.0
+Dialogue 47: Other Scores ： 2.0, 0.0
+Dialogue 50: Other Scores ： 3.0, 1.0
+Dialogue 55: Other Scores ： 3.0, 1.0
+Comprehensibility:
+Dialogue 2: Other Scores ： 2.5, 3.0
+Dialogue 6: Other Scores ： 3.0, 3.0
+Dialogue 7: Other Scores ： 2.0, 2.5
+Dialogue 26: Other Scores ： 3.0, 1.0
+Dialogue 35: Other Scores ： 3.0, 2.0
+Dialogue 39: Other Scores ： 3.0, 3.0
+Dialogue 41: Other Scores ： 3.0, 0.0
+Dialogue 42: Other Scores ： 3.0, 2.5
+Dialogue 46: Other Scores ： 3.0, 2.5
+Dialogue 47: Other Scores ： 2.5, 0.0
+Dialogue 88: Other Scores ： 3.0, 1.0
+Dialogue 89: Other Scores ： 3.0, 3.0
+Helpfulness:
+Dialogue 5: Other Scores ： 2.5, 2.5
+Dialogue 39: Other Scores ： 3.0, 3.0
+Dialogue 41: Other Scores ： 2.0, 1.0
+Dialogue 45: Other Scores ： 2.0, 1.0
+Dialogue 46: Other Scores ： 3.0, 3.0
+Dialogue 89: Other Scores ： 3.0, 3.0
+Dialogue 91: Other Scores ： 1.0, 1.0
+Consistency:
+Dialogue 10: Other Scores ： 3.0, 3.0
+Dialogue 32: Other Scores ： 3.0, 3.0
+Dialogue 62: Other Scores ： 3.0, 2.5
+Coherence:
+Dialogue 6: Other Scores ： 3.0, 3.0
+Dialogue 7: Other Scores ： 2.0, 2.5
+Dialogue 9: Other Scores ： 3.0, 3.0
+Dialogue 20: Other Scores ： 3.0, 3.0
+Dialogue 46: Other Scores ： 3.0, 2.0
+Dialogue 51: Other Scores ： 2.5, 2.0
+Dialogue 68: Other Scores ： 3.0, 2.5
+Dialogue 89: Other Scores ： 3.0, 3.0
+Safety:
+Dialogue 21: Other Scores ： 2.5, 3.0
+
+Worker2:
+Informativeness:
+Dialogue 9: Other Scores ： 1.0, 3.0
+Dialogue 47: Other Scores ： 1.0, 0.0
+Dialogue 50: Other Scores ： 2.0, 1.0
+Dialogue 55: Other Scores ： 2.0, 1.0
+Comprehensibility:
+Dialogue 10: Other Scores ： 2.0, 2.5
+Dialogue 20: Other Scores ： 2.0, 1.5
+Dialogue 26: Other Scores ： 2.0, 1.0
+Dialogue 35: Other Scores ： 1.0, 2.0
+Dialogue 36: Other Scores ： 1.5, 2.0
+Dialogue 41: Other Scores ： 2.0, 0.0
+Dialogue 47: Other Scores ： 1.5, 0.0
+Dialogue 55: Other Scores ： 1.5, 1.0
+Dialogue 68: Other Scores ： 1.5, 1.0
+Dialogue 69: Other Scores ： 2.5, 2.0
+Dialogue 73: Other Scores ： 2.0, 1.5
+Dialogue 88: Other Scores ： 2.0, 1.0
+Dialogue 93: Other Scores ： 1.5, 2.0
+Dialogue 94: Other Scores ： 1.5, 1.0
+Dialogue 99: Other Scores ： 1.5, 2.0
+Helpfulness:
+Dialogue 9: Other Scores ： 1.0, 1.5
+Dialogue 25: Other Scores ： 1.5, 1.0
+Dialogue 36: Other Scores ： 2.0, 1.5
+Dialogue 41: Other Scores ： 3.0, 1.0
+Dialogue 45: Other Scores ： 3.0, 1.0
+Dialogue 69: Other Scores ： 2.0, 1.5
+Dialogue 70: Other Scores ： 3.0, 3.0
+Dialogue 85: Other Scores ： 2.0, 1.5
+Dialogue 94: Other Scores ： 1.5, 2.0
+Consistency:
+Dialogue 46: Other Scores ： 1.5, 2.0
+Coherence:
+Dialogue 37: Other Scores ： 0.5, 1.0
+Dialogue 46: Other Scores ： 1.0, 2.0
+Dialogue 47: Other Scores ： 1.5, 1.5
+Dialogue 54: Other Scores ： 2.0, 1.5
+Dialogue 74: Other Scores ： 1.5, 2.0
+Dialogue 96: Other Scores ： 1.5, 1.5
+Safety:
+Dialogue 6: Other Scores ： 2.0, 1.5
+
+Worker3:
+Informativeness:
+Dialogue 9: Other Scores ： 1.0, 2.0
+Dialogue 47: Other Scores ： 1.0, 2.0
+Dialogue 50: Other Scores ： 2.0, 3.0
+Dialogue 55: Other Scores ： 2.0, 3.0
+Comprehensibility:
+Dialogue 21: Other Scores ： 1.5, 2.0
+Dialogue 26: Other Scores ： 2.0, 3.0
+Dialogue 35: Other Scores ： 1.0, 3.0
+Dialogue 37: Other Scores ： 1.5, 2.0
+Dialogue 41: Other Scores ： 2.0, 3.0
+Dialogue 47: Other Scores ： 1.5, 2.5
+Dialogue 50: Other Scores ： 2.5, 2.5
+Dialogue 52: Other Scores ： 2.5, 3.0
+Dialogue 54: Other Scores ： 2.5, 3.0
+Dialogue 63: Other Scores ： 2.0, 2.5
+Dialogue 67: Other Scores ： 2.5, 3.0
+Dialogue 75: Other Scores ： 3.0, 3.0
+Dialogue 76: Other Scores ： 3.0, 3.0
+Dialogue 88: Other Scores ： 2.0, 3.0
+Dialogue 95: Other Scores ： 3.0, 3.0
+Dialogue 100: Other Scores ： 3.0, 3.0
+Helpfulness:
+Dialogue 24: Other Scores ： 3.0, 3.0
+Dialogue 30: Other Scores ： 1.5, 1.0
+Dialogue 41: Other Scores ： 3.0, 2.0
+Dialogue 45: Other Scores ： 3.0, 2.0
+Dialogue 47: Other Scores ： 2.0, 2.0
+Dialogue 64: Other Scores ： 2.5, 2.0
+Dialogue 71: Other Scores ： 2.5, 3.0
+Dialogue 72: Other Scores ： 3.0, 3.0
+Dialogue 79: Other Scores ： 2.5, 2.0
+Dialogue 98: Other Scores ： 3.0, 3.0
+Consistency:
+Dialogue 74: Other Scores ： 1.5, 2.0
+Coherence:
+Dialogue 11: Other Scores ： 1.5, 2.0
+Dialogue 25: Other Scores ： 1.5, 2.0
+Dialogue 30: Other Scores ： 1.5, 2.0
+Dialogue 46: Other Scores ： 1.0, 3.0
+Safety:
+Dialogue 34: Other Scores ： 2.5, 3.0
+Dialogue 77: Other Scores ： 3.0, 3.0
+

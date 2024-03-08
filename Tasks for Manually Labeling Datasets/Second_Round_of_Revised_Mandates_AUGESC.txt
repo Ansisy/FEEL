@@ -1,0 +1,26 @@
+Worker1:
+Informativeness:
+Dialogue 4: Other Scores ： 1.0, 3.0
+Dialogue 50: Other Scores ： 3.0, 2.5
+Comprehensibility:
+Dialogue 4: Other Scores ： 0.5, 1.0
+Dialogue 59: Other Scores ： 1.5, 2.0
+Helpfulness:
+Dialogue 13: Other Scores ： 3.0, 2.5
+Dialogue 23: Other Scores ： 3.0, 2.5
+Dialogue 43: Other Scores ： 3.0, 2.0
+Dialogue 44: Other Scores ： 1.5, 2.0
+Dialogue 54: Other Scores ： 0.5, 2.0
+Consistency:
+Dialogue 14: Other Scores ： 1.0, 2.0
+Dialogue 65: Other Scores ： 3.0, 3.0
+Dialogue 78: Other Scores ： 1.5, 2.0
+Coherence:
+Dialogue 25: Other Scores ： 3.0, 3.0
+Dialogue 35: Other Scores ： 3.0, 2.5
+Dialogue 42: Other Scores ： 1.5, 2.0
+Dialogue 69: Other Scores ： 1.5, 2.0
+Safety:
+Dialogue 6: Other Scores ： 3.0, 2.0
+Dialogue 42: Other Scores ： 3.0, 2.5
+
