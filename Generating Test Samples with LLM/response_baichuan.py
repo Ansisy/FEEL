@@ -6,7 +6,6 @@ import panel as pn
 import os
 import requests
 import re
-# For prerequisites running the following sample, visit https://help.aliyun.com/document_detail/611472.html
 from http import HTTPStatus
 
 url = "https://api.baichuan-ai.com/v1/chat/completions"
